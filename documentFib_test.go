@@ -1,4 +1,4 @@
-//Package provides fibonacci implementation
+// Package provides fibonacci implementation
 package fib
 
 import (
@@ -10,7 +10,7 @@ import (
 func ExampleFib() {
 	fmt.Println(fib.Fib1(3))
 	fmt.Println(fib.Fib(8))
-	//Output:
-	//2
-	//21
+	// Output:
+	// 2
+	// 21
 }
