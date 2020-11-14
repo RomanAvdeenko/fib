@@ -7,7 +7,7 @@ import (
 )
 
 func ExampleFib() {
-	fmt.Println(fib.Fib(3))
+	fmt.Println(fib.Fib1(3))
 	fmt.Println(fib.Fib(8))
 	//Output:
 	//2
