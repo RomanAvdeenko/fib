@@ -1,4 +1,4 @@
-//Package provides implementation
+//Package provides fibonacci implementation
 package fib_test
 
 import (
