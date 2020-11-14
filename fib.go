@@ -1,5 +1,3 @@
-//Package provides implementation
-
 package fib
 
 // Fib1 is a canonical slow fibonacci implementation.

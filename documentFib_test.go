@@ -1,3 +1,4 @@
+//Package provides implementation
 package fib_test
 
 import (
