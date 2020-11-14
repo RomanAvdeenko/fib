@@ -1,4 +1,4 @@
-package fib_test
+package fib
 
 import (
 	"fmt"
