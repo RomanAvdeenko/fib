@@ -1,5 +1,5 @@
 //Package provides fibonacci implementation
-package fib_test
+package fib
 
 import (
 	"fmt"

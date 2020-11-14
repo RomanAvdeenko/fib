@@ -40,7 +40,6 @@ func Benchmark30Fib1(b *testing.B) {
 	benchmarkFib1(b, 30)
 }
 
-
 func Benchmark50Fib(b *testing.B) {
 	benchmarkFib(b, 50)
 }
